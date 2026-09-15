@@ -15,7 +15,7 @@ AI Image & Video Generator with Gemini Integration using Higgsfield Tools Suite.
 
 ### Prerequisites
 
-- Node.js 16+
+- Node.js 18+
 - npm or yarn
 - Gemini API Key
 - Higgsfield API Key
